@@ -32,7 +32,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text>Open up App.js to start working on your app! Expo 50</Text>
+      <Text>Open up App.js to start working on your app! Expo 49</Text>
       <Button title="Start Payment" onPress={startPayment} />
       <StatusBar style="auto" />
     </View>
