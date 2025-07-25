@@ -18,8 +18,8 @@ export default function App() {
     // Replace this with your payment logic
     try {
       let session = new CFSession(
-        "session_EBPLceK_suZjqMUj4yn0Tv7jpg2FogAPBdldwWZztj4HgmizB8dOVbcHKA3z0M-h9k2LQERr3VfPmRBA4Egikz08XyqB4crEfEYaUs_MbjtpaTQ0hTEOoKHHAGcpayment",
-        "devstudio_7347901859504599403",
+        "session_-XewIRsugJzDwdr2yTahi_ow5e8v8pUzBdpB_UgxEPi3XwLeNB61pu7Sb5nmlwo_4arNcdOI9J9zT6LWQYu5FqT9udE3-zy1SlbEvuzd1BNj4Kyd6Zy1sLw-f84payment",
+        "devstudio_7354435932584451723",
         CFEnvironment.SANDBOX
       );
       console.log("Session", JSON.stringify(session));
